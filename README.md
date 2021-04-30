@@ -31,3 +31,6 @@ MAE: 7.228148653430838
 MSE: 79.81305165097461
 RMSE: 8.933815066978642
 ```
+
+### Coeffecient of Model :
+![image](https://user-images.githubusercontent.com/47690957/116644599-713b5d00-a991-11eb-9a26-fc327547c172.png)
